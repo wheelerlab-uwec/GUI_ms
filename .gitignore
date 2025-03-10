@@ -1,3 +1,6 @@
+pzq/data/nested.rds
+pzq/data/20250305-p01-NJW_tidy.csv
+
 # History files
 .Rhistory
 .Rapp.history
@@ -47,3 +50,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+# Large files exceeding GitHub limits
+pzq/data/20250305-p01-NJW_tidy.csv
+pzq/data/nested.rds
+
